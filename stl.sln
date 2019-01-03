@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vector_training", "vector_t
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "map_training", "map_training\map_training.vcxproj", "{7D4D36F5-368B-4479-BCD0-2C047B1EBFD9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unordered_map_training", "unordered_map_training\unordered_map_training.vcxproj", "{A1752B3D-A289-49F1-9331-696F91EEA975}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{7D4D36F5-368B-4479-BCD0-2C047B1EBFD9}.Release|x64.Build.0 = Release|x64
 		{7D4D36F5-368B-4479-BCD0-2C047B1EBFD9}.Release|x86.ActiveCfg = Release|Win32
 		{7D4D36F5-368B-4479-BCD0-2C047B1EBFD9}.Release|x86.Build.0 = Release|Win32
+		{A1752B3D-A289-49F1-9331-696F91EEA975}.Debug|x64.ActiveCfg = Debug|x64
+		{A1752B3D-A289-49F1-9331-696F91EEA975}.Debug|x64.Build.0 = Debug|x64
+		{A1752B3D-A289-49F1-9331-696F91EEA975}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1752B3D-A289-49F1-9331-696F91EEA975}.Debug|x86.Build.0 = Debug|Win32
+		{A1752B3D-A289-49F1-9331-696F91EEA975}.Release|x64.ActiveCfg = Release|x64
+		{A1752B3D-A289-49F1-9331-696F91EEA975}.Release|x64.Build.0 = Release|x64
+		{A1752B3D-A289-49F1-9331-696F91EEA975}.Release|x86.ActiveCfg = Release|Win32
+		{A1752B3D-A289-49F1-9331-696F91EEA975}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
